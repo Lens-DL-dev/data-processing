@@ -1,0 +1,8 @@
+*.txt
+debug*
+
+output
+node_modules
+musinsa
+
+pnpm-lock.yaml
