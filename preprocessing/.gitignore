@@ -1,0 +1,9 @@
+venv
+
+*results/
+dataset/
+
+output
+cropped
+*.pt
+*.jpg
